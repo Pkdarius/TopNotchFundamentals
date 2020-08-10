@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0050">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[49,77]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_06/2-48_Reading_p50.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[543.85,682.6]]></coords>
+<icon><![CDATA[grammar_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[141]]></page>
+</art>
+</map>
+</page>

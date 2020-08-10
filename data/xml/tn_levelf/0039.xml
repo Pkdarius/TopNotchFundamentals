@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0039">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[49.85,118.85]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_05/2-25_Listening_comprehen_p39.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[59.85,374.7]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_05/2-26_Conversation_model_p39.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[59.85,465.85]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_05/2-27_Rhythm_and_intonati_p39.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+</map>
+</page>

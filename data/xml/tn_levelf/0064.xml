@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0064">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-19_Vocabulary_p64.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[51,189]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-20_Pronunciation_p64.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[52,659]]></coords>
+</art></map></page>

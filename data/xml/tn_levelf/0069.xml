@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0069">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[59.85,127.85]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-31_Conversation_model_p69.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[59.85,219.85]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-32_Rhythm_and_intonati_p69.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[234.85,168.85]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-33_Positive_and_negati_p69.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+</map>
+</page>

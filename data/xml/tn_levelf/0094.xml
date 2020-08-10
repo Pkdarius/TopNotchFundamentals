@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0094">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_11/4-33_Reading_p94.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[49,70]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[145]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<icon><![CDATA[grammar_booster]]></icon>
+<coords><![CDATA[518,589]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_11/4-34_Song_My_Favorite_Da_p94.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[414,697]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_11/4-35_Karaoke_My_Favorite_p94.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[453,697]]></coords>
+</art></map></page>

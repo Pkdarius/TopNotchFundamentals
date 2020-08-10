@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0118">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<coords><![CDATA[50,76]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_14/5-32_Reading_p118.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art><art type="icon" pfunction="generic_gotopage">
+<coords><![CDATA[540,639]]></coords>
+<icon><![CDATA[grammar_booster]]></icon>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[148]]></page>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[441,658]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_14/5-33_Song_I_Wasnt_Born_p118.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[485,657]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_14/5-34_Karaoke_I_Wasnt_B_p118.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art></map></page>

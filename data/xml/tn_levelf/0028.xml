@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0028">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_04/2-02_Vocabulary_p28.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[50,186]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_04/2-03_Listening_comprehen_p28.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[50,555]]></coords>
+</art></map></page>

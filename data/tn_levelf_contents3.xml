@@ -1,0 +1,274 @@
+<hierarchy>
+	<global/>
+	<children>
+	<child>
+			<data>
+				<title><![CDATA[<b>TOP NOTCH POP</b>]]></title>
+		 <enabled>0</enabled>
+			</data>
+	</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 1:</b> Names and Occupations]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song1_what_do_you_do.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song1_what_do_you_do_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>			
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 2:</b> About People]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U2_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U2_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 4:</b> Family]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U4_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U4_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+        <child>
+            <data>
+				<title><![CDATA[<b>Unit 5:</b> Events and Times]]></title>
+			</data>
+            <children>
+				
+                <child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song4_make_date.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song4_make_date_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 7:</b> Activities]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U7_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U7_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 8:</b> Home and Neighborhood]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song5_home_heart.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song5_home_heart_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 10:</b> Food]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song7_fruit_salad.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song7_fruit_salad_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+        </child>
+        <child>
+			<data>
+				<title><![CDATA[<b>Unit 11:</b> Past Events]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U11_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title><function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U11_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+        
+        <child>
+			<data>
+				<title><![CDATA[<b>Unit 13:</b> Abilities and Requests]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song9_play_guitar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song9_play_guitar_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+        <child>
+			<data>
+				<title><![CDATA[<b>Unit 14:</b> Life Events and Plans]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U14_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+                        <function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/Fundy_U14_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+	</children>
+</hierarchy>

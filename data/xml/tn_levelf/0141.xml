@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0141">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[90,28]]></coords>
+<icon><![CDATA[tn_gotounit]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<title><![CDATA[Go to Unit]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[50]]></page>
+</art>
+<art type="icon">
+<coords><![CDATA[89,437]]></coords>
+<icon><![CDATA[tn_gotounit]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<title><![CDATA[Go to Unit]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[58]]></page>
+</art>
+</map>
+</page>

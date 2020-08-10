@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0101">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_12/4-51_Listening_comprehe_p101.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[50,19]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_12/4-52_Conversation_model_p101.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[60,353]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_12/4-53_Rhythm_and_intonat_p101.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[61,489]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_12/4-54_Ways_to_say_youre_p101.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[227,383]]></coords>
+</art></map></page>

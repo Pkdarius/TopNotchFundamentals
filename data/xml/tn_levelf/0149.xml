@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0149">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_01/1-30_Song_What_Do_You_Do_p10.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[11,52]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_04/2-15_Song_Tell_Me_About__p34.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[186,204]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_07/3-15_Song_On_the_Weekend_p58.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[359,362]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_02/1-46_Song_Excuse_Me_Plea_p18.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[10,506]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_05/2-35_Song_Lets_Make_p42.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[184,592]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_01/1-31_Karaoke_What_Do_You_p10.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[40,52]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_04/2-16_Karaoke_Tell_Me_Abo_p34.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[214,204]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_07/3-16_Karaoke_On_the_Week_p58.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[388,362]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_02/1-47_Karaoke_Excuse_Me_P_p18.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[40,506]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[55]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Unit_05/2-36_Karaoke_Lets_Make_p42.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[213,592]]></coords>
+</art></map></page>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0127">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[34,43]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Vocabulary_Booster/5-38_Unit_2-More_rela_p127.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[241,43]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Vocabulary_Booster/5-39_Unit_2-More_title_p127.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[35,248]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[MP3_Audio_Files/Vocabulary_Booster/5-40_Unit_3-More_place_p127.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[85]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[86,29]]></coords>
+<icon><![CDATA[tn_gotounit]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<title><![CDATA[Go to Unit]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[12]]></page>
+</art>
+<art type="icon">
+<coords><![CDATA[277,31]]></coords>
+<icon><![CDATA[tn_gotounit]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<title><![CDATA[Go to Unit]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[14]]></page>
+</art>
+<art type="icon">
+<coords><![CDATA[93,231]]></coords>
+<icon><![CDATA[tn_gotounit]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<title><![CDATA[Go to Unit]]></title>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[20]]></page>
+</art>
+</map>
+</page>

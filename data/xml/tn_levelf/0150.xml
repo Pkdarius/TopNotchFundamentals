@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0150">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<coords><![CDATA[10,15]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-35_Song_Home_Is_Where_p70.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[187,17]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_11/4-34_Song_My_Favorite_Da_p94.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[360,152]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_14/5-33_Song_I_Wasnt_Born_p118.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[184,370]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_13/5-16_Song_She_Cant_p110.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[10,243]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_10/4-17_Song_Fruit_Salad,_B_p86.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[39,15]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_08/3-36_Karaoke_Home_Is_Whe_p70.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[215,17]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_11/4-35_Karaoke_My_Favorite_p94.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[389,152]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_14/5-34_Karaoke_I_Wasnt_B_p118.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[213,370]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_13/5-17_Karaoke_Cant_p110.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[39,243]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[MP3_Audio_Files/Unit_10/4-18_Karaoke_Fruit_Salad_p86.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+</art></map></page>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0128">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Vocabulary_Booster/5-41_Unit_4-More_adjec_p128.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[35,45]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[85]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[MP3_Audio_Files/Vocabulary_Booster/5-42_Unit_5-More_event_p128.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[35,306]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[30]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Unit]]></title>
+<icon><![CDATA[tn_gotounit]]></icon>
+<coords><![CDATA[87,27]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[38]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Unit]]></title>
+<icon><![CDATA[tn_gotounit]]></icon>
+<coords><![CDATA[87,289]]></coords>
+</art></map></page>
